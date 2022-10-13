@@ -4,8 +4,6 @@
     <a href="https://www.linkedin.com/in/leonardo-wilson/">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
     <img src="https://komarev.com/ghpvc/?username=Marshalldt1&style=for-the-badge"/>
 </p>
 
