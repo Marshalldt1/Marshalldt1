@@ -1,5 +1,13 @@
-### Hi there 👋
+### <h3> Hi there :)</h3> 👋
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/leonardo-wilson/">
+    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Marshalldt1&style=for-the-badge"/>
+</p>
 <!--
 **Marshalldt1/Marshalldt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
