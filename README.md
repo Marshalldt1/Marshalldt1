@@ -1,4 +1,4 @@
-## ** Hi there :) 👋**  
+## **Hi there :) 👋**  
 
 <p align="center">
     <a href="https://www.linkedin.com/in/leonardo-wilson/">
@@ -23,7 +23,7 @@
 ## **🌠You can find me on:**
 *Click on the image to be redirected*
 
-<a href="https://www.linkedin.com/in/leonardo-wilson
+<a href="https://www.linkedin.com/in/leonardo-wilson/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:leonardotera92@gmail.com">
