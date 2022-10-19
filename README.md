@@ -9,8 +9,10 @@
 
 
 ## **🐉 About me:**
-* Leonardo Wilson, 20 years
+* Leonardo Wilson, 20 years / anos
+* Estudante de Análise e Desen. de Sistemas
 * front-end Developer
+
 
 ## **🌱 I’m currently learning:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -21,6 +23,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+<p>
+<img alt=gitstats src="https://github-readme-stats.vercel.app/api?username=marshalldt1&theme=tokyonight"/>
+</p>
 
 ## **🌠You can find me on:**
 *Click on the image to be redirected*
