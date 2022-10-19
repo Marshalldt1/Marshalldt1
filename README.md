@@ -1,6 +1,6 @@
 ## **Hi, i'm Leonardo Wilson 👋**  
 
-<p align="center">
+<p>
     <a href="https://www.linkedin.com/in/leonardo-wilson/">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
