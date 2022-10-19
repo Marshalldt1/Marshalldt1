@@ -1,4 +1,4 @@
-## **Hi there :) 👋**  
+## **Hi, i'm Leonardo Wilson 👋**  
 
 <p align="center">
     <a href="https://www.linkedin.com/in/leonardo-wilson/">
@@ -11,8 +11,9 @@
 ## **🐉 About me:**
 * Leonardo Wilson, 20 years
 * front-end Developer
-* Currently studying Javascript
 
+## **🌱 I’m currently learning:**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## **💬 My skills:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,6 +31,7 @@
 <a href="mailto:leonardotera92@gmail.com">
 <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 
 **Discord**: marshall#0728
 <!--
