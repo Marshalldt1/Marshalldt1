@@ -9,13 +9,15 @@
 
 
 ## **🐉 About me:**
-* Leonardo Wilson, 20 years / anos
+* Leonardo Wilson, 21 years / anos
 * Estudante de Análise e Desen. de Sistemas
 * front-end Developer
 
 
 ## **🌱 I’m currently learning:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Scss](https://img.shields.io/badge/scss-%2320232a.svg?style=for-the-badge&logo=scss&logoColor=%2461DAFB)
+
 
 ## **💬 My skills:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
